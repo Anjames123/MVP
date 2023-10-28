@@ -1,0 +1,77 @@
+/* Style the calculator container */
+#calculator {
+    width: 300px;
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    background-color: #333;
+    color: #fff;
+}
+
+/* Style the display area */
+#display {
+    font-size: 24px;
+    text-align: right;
+    margin: 10px 0;
+    padding: 5px;
+    background-color: #444;
+    border: 2px solid #555;
+}
+
+/* Style the calculator buttons */
+#buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 5px;
+}
+
+button {
+    font-size: 18px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #666;
+    color: #fff;
+    cursor: pointer;
+}
+
+/* Style the operator buttons */
+button[id^="btnPlus"],
+button[id^="btnMinus"],
+button[id^="btnMultiply"],
+button[id^="btnDivide"] {
+    background-color: #FF5722;
+}
+
+/* Style the clear and equals buttons */
+button#btnClear,
+button#btnEquals {
+    background-color: #2196F3;
+}
+
+/* Style the scientific function buttons */
+button[id^="btnSqrt"],
+button[id^="btnPow"],
+button[id^="btnSin"],
+button[id^="btnCos"],
+button[id^="btnTan"],
+button[id^="btnCbrt"],
+button[id^="btnArctan"],
+button[id^="btnArcsin"],
+button[id^="btnArccos"],
+button[id^="btnLn"],
+button#btnExp {
+    background-color: #FFC107;
+}
+
+/* Style the dot button */
+button#btnDot {
+    font-size: 20px;
+}
+
+/* Hover effect for buttons */
+button:hover {
+    background-color: #777;
+}
