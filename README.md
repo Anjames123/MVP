@@ -90,3 +90,6 @@ git push origin feature/new-feature
 Open a pull request to the main branch.
 License
 This project is licensed under the MIT License. You are free to use, modify, and distribute it according to the terms of the license.
+
+## License
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
