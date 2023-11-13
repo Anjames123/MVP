@@ -1,5 +1,6 @@
 Scientific Calculator Project
 
+
 This Scientific Calculator project is a web-based application developed using HTML, CSS, and JavaScript. It provides a user-friendly interface for performing a wide range of mathematical calculations, including basic arithmetic, trigonometric functions, logarithmic operations, and more. This README file will guide you through setting up and using the calculator.
 
 Table of Contents
@@ -90,6 +91,8 @@ git push origin feature/new-feature
 Open a pull request to the main branch.
 License
 This project is licensed under the MIT License. You are free to use, modify, and distribute it according to the terms of the license.
-
+Project link: https://anjames123.github.io/
+LinkedIn link: https://www.linkedin.com/in/ajibade-james-54705029b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Twitter link: https://twitter.com/Anjamesmersy?t=of3lJKNAJU5CKQMD0A02zA&s=09
 ## License
 This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
